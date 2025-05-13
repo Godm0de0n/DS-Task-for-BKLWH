@@ -1,4 +1,4 @@
-This is an Assignment for Junior Data Scientist position at B.K.L Walawalkar Hospital
+This is an Assignment for Junior Data Scientist position
 
 Submitted by Abhisek Nag
 
